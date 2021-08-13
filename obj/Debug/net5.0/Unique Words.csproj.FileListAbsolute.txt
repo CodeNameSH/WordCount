@@ -1,0 +1,15 @@
+C:\Projects\Unique Words\obj\Debug\net5.0\Unique Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Unique Words\obj\Debug\net5.0\Unique Words.AssemblyInfoInputs.cache
+C:\Projects\Unique Words\obj\Debug\net5.0\Unique Words.AssemblyInfo.cs
+C:\Projects\Unique Words\obj\Debug\net5.0\Unique Words.csproj.CoreCompileInputs.cache
+C:\Projects\Unique Words\bin\Debug\net5.0\Unique Words.exe
+C:\Projects\Unique Words\bin\Debug\net5.0\Unique Words.deps.json
+C:\Projects\Unique Words\bin\Debug\net5.0\Unique Words.runtimeconfig.json
+C:\Projects\Unique Words\bin\Debug\net5.0\Unique Words.runtimeconfig.dev.json
+C:\Projects\Unique Words\bin\Debug\net5.0\Unique Words.dll
+C:\Projects\Unique Words\bin\Debug\net5.0\ref\Unique Words.dll
+C:\Projects\Unique Words\bin\Debug\net5.0\Unique Words.pdb
+C:\Projects\Unique Words\obj\Debug\net5.0\Unique Words.dll
+C:\Projects\Unique Words\obj\Debug\net5.0\ref\Unique Words.dll
+C:\Projects\Unique Words\obj\Debug\net5.0\Unique Words.pdb
+C:\Projects\Unique Words\obj\Debug\net5.0\Unique Words.genruntimeconfig.cache
